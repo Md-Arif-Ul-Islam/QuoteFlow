@@ -6,7 +6,7 @@ import '../widgets/animated_background.dart';
 class AboutScreen extends StatelessWidget {
   const AboutScreen({super.key});
 
-  static const String _gitHubUrl = 'https://github.com/quoteflow/app';
+  static const String _gitHubUrl = 'https://github.com/Md-Arif-Ul-Islam/QuoteFlow';
 
   Future<void> _launchGitHub(BuildContext context) async {
     final Uri url = Uri.parse(_gitHubUrl);
@@ -262,7 +262,7 @@ class AboutScreen extends StatelessWidget {
                     ),
                     const SizedBox(height: 4),
                     Text(
-                      '© 2026 QuoteFlow Inc. All rights reserved.',
+                      '© 2026 Md-Arif-Ul-Islam. All rights reserved.',
                       style: theme.textTheme.bodySmall?.copyWith(
                         color: theme.colorScheme.onSurfaceVariant.withValues(alpha: 0.6),
                         fontSize: 10,
