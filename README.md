@@ -36,7 +36,7 @@ Make sure you have the [Flutter SDK installed](https://docs.flutter.dev/get-star
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/Md-Arif-Ul-Islam/QuoteFlow.git](https://github.com/Md-Arif-Ul-Islam/QuoteFlow.git)
+   git clone (https://github.com/Md-Arif-Ul-Islam/QuoteFlow.git)
    cd QuoteFlow
    ```
 
