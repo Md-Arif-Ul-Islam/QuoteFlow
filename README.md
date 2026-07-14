@@ -74,3 +74,4 @@ lib/
 │   └── quote_card.dart         # Glassmorphic card for quote rendering
 └── main.dart                   # Application entrypoint & Theme config
 ```
+© 2026 Md-Arif-Ul-Islam. All rights reserved
